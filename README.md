@@ -1,4 +1,4 @@
-hoge
+fuga
 practice
 
 I am a beginner programmer.
